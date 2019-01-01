@@ -6,3 +6,5 @@ ballot papers.
 Data Details​: ​There are 48 classes where 0 class corresponds to the invalid voted ballot papers
 whereas 1-47 class corresponds to valid ballot papers voted to each political party.
 Task: ​Create a classifier that classifies a given voted ballot paper to the corresponding class.
+
+The task was completed using convolution neural network with tensorflow
